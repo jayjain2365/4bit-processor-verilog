@@ -1,0 +1,11 @@
+Alu_4bit.cache/
+Alu_4bit.hw/
+Alu_4bit.ip_user_files/
+Alu_4bit.sim/
+
+*.jou
+*.log
+*.wdb
+*.wcfg
+
+Xil/
